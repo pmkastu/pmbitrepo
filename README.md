@@ -1,14 +1,14 @@
-# 🚀 Bite Spark Dash
+# 🚀 BiteMaster Random Bit Generator
 
-Welcome to **Bite Spark Dash** — a modern, interactive learning platform designed to make knowledge acquisition fun, engaging, and rewarding! 
+Welcome to **BiteMaster Random Bit Generator** — a modern, interactive learning platform designed to make knowledge acquisition fun, engaging, and rewarding! 
 
 Think of it as your personal learning companion that delivers bite-sized knowledge nuggets, tracks your progress, challenges your peers, and celebrates your achievements with gamified learning mechanics. 🎮✨
 
 ---
 
-## 🎯 What is Bite Spark Dash?
+## 🎯 What is BiteMaster?
 
-Bite Spark Dash is a gamified learning platform that helps you master knowledge through:
+BiteMaster is a gamified learning platform that helps you master knowledge through:
 
 - 📚 **Knowledge Bites** — Short, focused learning content delivered as quizzes, facts, and challenges
 - 🔥 **Streaks & Rewards** — Build daily learning streaks and earn certificates for achievements
@@ -33,7 +33,7 @@ Bite Spark Dash is a gamified learning platform that helps you master knowledge 
 1. **Clone the repository:**
    ```bash
    git clone <YOUR_GIT_URL>
-   cd bite-spark-dash
+   cd bitemaster-random-bit-generator
    ```
 
 2. **Install dependencies:**
@@ -54,7 +54,7 @@ Bite Spark Dash is a gamified learning platform that helps you master knowledge 
 ## 📦 Project Structure
 
 ```
-bite-spark-dash/
+bitemaster-random-bit-generator/
 ├── src/
 │   ├── components/          # Reusable React components
 │   │   ├── ui/              # Shadcn UI components library
@@ -114,7 +114,7 @@ bite-spark-dash/
 
 ## 🔐 Authentication
 
-Bite Spark Dash uses **Supabase Authentication** for secure user management. You can:
+BiteMaster uses **Supabase Authentication** for secure user management. You can:
 
 - Sign up with email/password
 - Reset forgotten passwords
